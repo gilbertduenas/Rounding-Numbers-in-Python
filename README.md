@@ -1,2 +1,2 @@
-# Rounding-Numbers-in-Python-Quiz
+# Rounding-Numbers-in-Python
 https://realpython.com/quizzes/python-rounding/
